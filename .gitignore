@@ -1,3 +1,6 @@
+git innit
+git add .
+git commit -m "aplikacja pogody"
 git remote add origin https://github.com/warmzera0/aplikacja-pogody
 git branch -M main
 git push -u origin main
